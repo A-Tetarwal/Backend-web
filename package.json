@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Tetarwal/Backend-web.git"
+  },
+  "author": "Ashish Tetarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-Tetarwal/Backend-web/issues"
+  },
+  "homepage": "https://github.com/A-Tetarwal/Backend-web#readme"
+}
