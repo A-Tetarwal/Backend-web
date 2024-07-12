@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/A-Tetarwal/Backend-web/issues"
   },
-  "homepage": "https://github.com/A-Tetarwal/Backend-web#readme"
+  "homepage": "https://github.com/A-Tetarwal/Backend-web#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
