@@ -4,6 +4,8 @@
   "description": "Backend-web",
   "main": "index.js",
   "scripts": {
+    "start": "node ./index.js",
+    "Bharata": "echo \"\u001b[44mRunning tests...\u001b[0m\" && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +19,11 @@
   },
   "homepage": "https://github.com/A-Tetarwal/Backend-web#readme",
   "dependencies": {
+    "accessibility": "^3.0.9",
+    "chalk": "^5.3.0",
     "one-liner-joke": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
   }
 }
